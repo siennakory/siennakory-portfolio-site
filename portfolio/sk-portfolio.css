@@ -11,14 +11,14 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
     margin-top: 2rem;
 }
 
 #design {
-    margin-left: 26.5%;
-    margin-right: 26.5%;
+    margin-left: 21.5%;
+    margin-right: 21.5%;
 }
 
 .logo {
@@ -66,8 +66,8 @@ p {
     font-size: medium;
     margin-bottom: 1rem;
     margin-top: 0;
-    margin-left: 32%;
-    margin-right: 32%;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 .h1-caption{
