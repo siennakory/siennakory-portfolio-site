@@ -11,8 +11,13 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin-left: 18%;
-    margin-right: 18%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#design {
+    margin-left: 31.5%;
+    margin-right: 31.5%;
 }
 
 .logo {
@@ -44,7 +49,7 @@ h1 {
 h2 {
     font-family: 'Arial Black', sans-serif;
     font-weight: bold;
-    font-size: x-large;
+    font-size: xx-large;
     text-align: center;
     margin-bottom: 0;
 }
@@ -70,6 +75,7 @@ p {
     background-color: rgb(11, 115, 189);
     width: 100%;
     margin-bottom: 0;
+    padding: 1rem;
 }
 
 body{
@@ -90,4 +96,5 @@ main{
 
 .page-title{
     margin: 4rem;
+    margin-bottom: 2rem;
 }
